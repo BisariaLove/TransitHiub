@@ -1,0 +1,10 @@
+Command to execute a C++ file.
+
+g++ -Wall hello.cc -o hello
+gcc -o ShowIP showip.c -lsocket -lnsl -lresolv
+
+
+g++ -o CasinoA casino_a.cpp -lsocket -lnsl -lresolv
+g++ -o CasinoB casino_b.cpp -lsocket -lnsl -lresolv
+g++ -o CasinoC casino_c.cpp -lsocket -lnsl -lresolv
+g++ -o CasinoD casino_d.cpp -lsocket -lnsl -lresolv

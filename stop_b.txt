@@ -1,0 +1,4 @@
+To casino A: 1
+To casino B: 0
+To casino C: 4
+To casino D: 8
